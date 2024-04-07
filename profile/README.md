@@ -9,7 +9,3 @@ We welcome contributions from the community. If you're interested in contributin
 - Email: [contact@suslabs.eu](mailto:contact@suslabs.eu)
 
 Feel free to reach out to us if you have any questions, feedback, or inquiries.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
