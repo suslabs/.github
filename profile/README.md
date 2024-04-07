@@ -1,8 +1,6 @@
 # Welcome to SUS Laboratories
 
-![SUS Laboratories Logo](https://example.com/logo.png)
-
-SUS Laboratories is a cutting-edge technology organization dedicated to the current world situation.
+![SUS Laboratories Logo](https://i.imgur.com/OlNCjXm.png)
 
 ## Contributions
 
@@ -10,9 +8,7 @@ We welcome contributions from the community. If you're interested in contributin
 
 ## Contact Us
 
-- Email: [contact@suslaboratories.eu](mailto:contact@suslaboratories.eu)
-- Website: [https://www.suslaboratories.eu](https://www.suslaboratories.eu)
-- Twitter: [@SUSLabs](https://twitter.com/SUSLabs)
+- Email: [contact@suslabs.eu](mailto:contact@suslabs.eu)
 
 Feel free to reach out to us if you have any questions, feedback, or inquiries.
 
