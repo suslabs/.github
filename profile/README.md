@@ -1,5 +1,3 @@
-# Welcome to SUS Laboratories
-
 ![SUS Laboratories Logo](https://i.imgur.com/OlNCjXm.png)
 
 ## Contributions
