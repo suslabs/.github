@@ -1,4 +1,6 @@
-![SUS Laboratories Logo](https://i.imgur.com/OlNCjXm.png)
+<h1 align="center">
+    <img src="https://i.imgur.com/OlNCjXm.png" alt="EL LEVERT" style="width:50%;height:50%;">
+</h1>
 
 ## Contributions
 
